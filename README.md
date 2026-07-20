@@ -26,8 +26,9 @@ With this application, you can:
 - Read a simple explanation of why an algorithm selected a particular route.
 - Experiment with the trade-off between speed and safety through a utility function demonstration.
 
+## 📁 Project Structure
 
-## Project Structure
+```text
 WarehouseRobotPathfinder/
 │
 ├── app.py
@@ -64,3 +65,4 @@ WarehouseRobotPathfinder/
     ├── 02_bfs_result.png
     ├── 03_astar_result.png
     └── 04_comparison.png
+```
