@@ -4,4 +4,10 @@ echo __pycache__/
 echo *.pyc
 echo .env
 echo WarehouseRobot-Huzaifa/
-) > .gitignore
+) > .gitignoreWarehouseRobot-Huzaifa/
+__pycache__/
+venv/
+*.pyc
+
+WarehouseRobot-Huzaifa/
+/WarehouseRobot-Huzaifa/
