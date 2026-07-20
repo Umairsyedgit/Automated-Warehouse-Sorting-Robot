@@ -1,9 +1,7 @@
-venv/
-.venv/
-__pycache__/
-*.pyc
-.idea/
-.vscode/
-.DS_Store
-Thumbs.dbWarehouseRobot-Huzaifa/ 
-WarehouseRobot-Huzaifa/
+(
+echo venv/
+echo __pycache__/
+echo *.pyc
+echo .env
+echo WarehouseRobot-Huzaifa/
+) > .gitignore
